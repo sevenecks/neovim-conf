@@ -16,4 +16,6 @@ Ubuntu
 4. Run the command fc-cache -fv to manually rebuild the font cache
 5. Close terminals
 6. Set the terminal profile to use 'Cousine Nerd Font Mono'
+7. sudo apt install xclip // allows you to copy to system clipboard with yanks
+
 You should now be able to run neovim as setup by this repo, using LazyVim.
