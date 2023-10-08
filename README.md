@@ -3,7 +3,7 @@
 1. brew install neovim
 2. git clone git@github.com:sevenecks/neovim-conf.git
 3. mv neovim-conf ~/.config/
-4. mv ~/.config/neovim-conf nvim
+4. mv ~/.config/neovim-conf ~/.config/nvim
 
 MacOS
 1. brew tap homebrew/cask-fonts && brew install --cask font-cousine-nerd-font
